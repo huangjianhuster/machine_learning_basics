@@ -1,0 +1,28 @@
+def model_test(x, w0, w1):
+    a = w0 + np.dot(x.T, np.array(w1))
+    return a.T
+
+def cost_func(w0, w1):
+    global x_p, y
+    cost = np.sum((model_test(x_p, w0, w1) -y)**2)
+    return cost/float(y.size)
+
+
+w0_list = np.arange(-200.0, 10, 10)
+w1_list = np.arange(-0.1, 0.1, 0.001)
+w0, w1 = np.meshgrid(w0_list, w1_list)
+v_func = np.vectorize(cost_func)
+
+fig, ax = plt.subplots(1)
+cp = ax.contour(w0, w1, v_func(w0, w1), [0.001, 0.01, 0.1])
+ax.clabel(cp, inline=True, fontsize=10)
+ax.set_ylim([-0.1,0.1])
+
+w0_hist = [x[0] for x in w_history]
+w1_hist = [x[1] for x in w_history]
+
+ax.plot(w0_hist[::10], w1_hist[::10], 'k-', marker='o', alpha=0.5)
+fig.colorbar(cp)
+
+
+plt.show()
