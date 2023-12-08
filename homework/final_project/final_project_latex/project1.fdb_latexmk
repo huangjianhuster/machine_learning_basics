@@ -1,0 +1,15 @@
+# Fdb version 4
+["pdflatex"] 1701035360 "/Users/jianhuang/Projects/titanic/final_project_latex/project1.tex" "project1.pdf" "project1" 1701035360 2
+  "/Users/jianhuang/Projects/titanic/final_project_latex/project1.tex" 1701035230 6912 4167a06ff6781d02a61aefb5eb82994f ""
+  "/usr/local/texlive/2023basic/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/local/texlive/2023basic/texmf-dist/tex/latex/base/omscmr.fd" 1686341992 2469 7cf25c0dd8ba984c37b877b83027725f ""
+  "/usr/local/texlive/2023basic/texmf-dist/web2c/texmf.cnf" 1697057529 41009 84b61f42d16d06bedb915f57aa2374cf ""
+  "/usr/local/texlive/2023basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1700947884 7530260 4fa8da87383e0a2029ddbba3777c20e3 ""
+  "/usr/local/texlive/2023basic/texmf.cnf" 1678817979 628 bde3cc671e29677eea4172140533535c ""
+  "project1.aux" 1701035360 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "project1.tex" 1701035230 6912 4167a06ff6781d02a61aefb5eb82994f ""
+  (generated)
+  "project1.aux"
+  "project1.log"
+  "project1.pdf"
+  (rewritten before read)

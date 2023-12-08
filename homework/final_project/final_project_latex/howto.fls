@@ -1,0 +1,6 @@
+PWD /Users/jianhuang/Library/CloudStorage/OneDrive-alumni.hust.edu.cn/UMass/UMass_fourth_year/homework/hw8/hw8_latex
+INPUT /usr/local/texlive/2023basic/texmf.cnf
+INPUT /usr/local/texlive/2023basic/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2023basic/texmf-var/web2c/pdftex/latex.fmt
+INPUT howto.tex
+OUTPUT howto.log

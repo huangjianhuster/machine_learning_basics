@@ -1,0 +1,12 @@
+# Fdb version 4
+["latex"] 1700939589 "howto.tex" "howto.dvi" "howto" 1700939605 2
+  "/usr/local/texlive/2023basic/texmf-dist/web2c/texmf.cnf" 1697057529 41009 84b61f42d16d06bedb915f57aa2374cf ""
+  "/usr/local/texlive/2023basic/texmf-var/web2c/pdftex/latex.fmt" 1700929304 7530506 a52a3310bcdea9cc069e9a7fbe8a04e9 ""
+  "/usr/local/texlive/2023basic/texmf.cnf" 1678817979 628 bde3cc671e29677eea4172140533535c ""
+  "howto.aux" 1700939589 32 3985256e7290058c681f74d7a3565a19 "latex"
+  "howto.tex" 1697471838 3207 4873afd8c37b89cbdf593d138e0576f5 ""
+  (generated)
+  "howto.aux"
+  "howto.dvi"
+  "howto.log"
+  (rewritten before read)
